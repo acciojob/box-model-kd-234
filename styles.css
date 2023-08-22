@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 .cantainer{
 	display:flex;
-	justify-content:space-evenly;
+	justify-content:center;
 	align-items:center;
 	background-color:lightgray;
 	width:600px;
@@ -16,16 +16,22 @@
 	height:100px;
 	background-color:green;
 	border-radius:50%;
+	padding:10px;
+	margin:10px
 }
 .yellow{
 	width:100px;
 	height:100px;
 	background-color:yellow;
 	border-radius:50%;
+	padding:10px;
+	margin:10px
 }
 .red{
 	width:100px;
 	height:100px;
 	background-color:red;
 	border-radius:50%;
+	padding:10px;
+	margin:10px
 }
