@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .cantainer{
 	display:flex;
-	justify-content:space-around;
+	justify-content:space-evenly;
 	align-items:center;
-	background-color:gray;
+	background-color:lightgray;
 	width:600px;
 	height:200px;
 	padding:10px;
@@ -12,20 +12,20 @@
 }
 
 .green{
-	width:150px;
-	height:150px;
+	width:100px;
+	height:100px;
 	background-color:green;
 	border-radius:50%;
 }
 .yellow{
-	width:150px;
-	height:150px;
+	width:100px;
+	height:100px;
 	background-color:yellow;
 	border-radius:50%;
 }
 .red{
-	width:150px;
-	height:150px;
+	width:100px;
+	height:100px;
 	background-color:red;
 	border-radius:50%;
 }
